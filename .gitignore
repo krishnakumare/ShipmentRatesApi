@@ -1,0 +1,18 @@
+
+# Build output
+bin/
+obj/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# User-specific settings
+*.userosscache
+
+# Secrets and local configuration
+appsettings.Development.json
+
+# Publish output
+publish/
